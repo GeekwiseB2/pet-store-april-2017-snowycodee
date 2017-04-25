@@ -1,0 +1,41 @@
+/*UNIVERSALS*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+body {
+  padding-top: 20px;
+}
+
+/*Header*/
+.logo {
+  width: 120px;
+}
+
+.satisfy-text {
+  font-family: "Satisfy", cursive;
+  color: #F47F5F;
+  font-size: 36px;
+}
+
+/*thead*/
+thead {
+  font-weight: bold;
+}
+
+/*footer*/
+.footer {
+ height: 150px;
+ background-color: #231F20;
+}
+
+footer img {
+  width: 120px;
+}
+
+.address {
+  color: white;
+}
+
+.section-border {
+  border-right: 1px solid #323232;
+}
